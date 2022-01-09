@@ -31,5 +31,6 @@ The problem smartAi solves is now a days we have seen that in many road accident
 
 
 References:
--https://arxiv.org/abs/2108.11539
+-for pattern Recognition we used YOLO https://arxiv.org/abs/2108.11539
+
 
