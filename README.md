@@ -7,9 +7,10 @@ The problem smartAi solves is now a days we have seen that in many road accident
 
 # Our solution
 
-1. It can help people from road Accident.
+1. It can help to save people  life from road Accident.
 2. If any accident occur it will automatically detect the accident and it will send google map Location to nearby hospital.
 3. Hospital will  accept the request and send the Ambulance to that Location.
+4. The Ambulance driver can open the google map link recieved in email ann reach to  the location.
 
 
 # Technology - used
@@ -21,9 +22,13 @@ The problem smartAi solves is now a days we have seen that in many road accident
   - HTML/CSS/JS
   - Bootstrap
   - Pytorch
+
+-Database
+  -Sql lite
   
 - Server
    - localhost
+
 - Algorithm
    - ML Algorithm
 
