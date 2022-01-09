@@ -24,7 +24,7 @@ The problem smartAi solves is now a days we have seen that in many road accident
   - Pytorch
 
 -Database
-  -Sql lite
+  -Sqlite
   
 - Server
    - localhost
