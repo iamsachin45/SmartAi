@@ -7,9 +7,10 @@ The problem smartAi solves is now a days we have seen that in many road accident
 
 # Our solution
 
-1. It can help stop bullying of teachers in online classes by recording movements of students.
-2. It will automatically mark the attendance of people using FaceNet paper algorithm which will save other's time.
-3. It contains a dashboard like system that takes less bandwidth and will share coordinates of designs and drawings in the pdf's that would be taught."
+1. It can help to save people  life from road Accident.
+2. If any accident occur it will automatically detect the accident and it will send google map Location to nearby hospital.
+3. Hospital will  accept the request and send the Ambulance to that Location.
+4. The Ambulance driver can open the google map link recieved in email ann reach to  the location.
 
 
 # Technology - used
@@ -21,9 +22,13 @@ The problem smartAi solves is now a days we have seen that in many road accident
   - HTML/CSS/JS
   - Bootstrap
   - Pytorch
+
+-Database
+  -Sql lite
   
 - Server
    - localhost
+
 - Algorithm
    - ML Algorithm
 
