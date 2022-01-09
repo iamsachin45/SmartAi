@@ -30,12 +30,25 @@ The problem smartAi solves is now a days we have seen that in many road accident
    - localhost
 
 - Algorithm
-   - ML Algorithm
-
-  
-
+   - ML Algorithm(YOLO Algithm)
 
 References:
--for pattern Recognition we used YOLO https://arxiv.org/abs/2108.11539
+-For Accident Recognition we used YOLO https://arxiv.org/abs/2108.11539
+
+
+# Dataset
+- We created our own dataset from Scratch 
+ Link- https://drive.google.com/drive/folders/1pbRUBAZAbD86eLc90Mc6dBFfro1QYaWt
+
+# Images
+
+![image](https://user-images.githubusercontent.com/55380296/148669639-a1e6864f-37e1-4f2a-9fb5-fa5c9b0e6dcf.png)
+![image](https://user-images.githubusercontent.com/55380296/148669654-a9bb229f-48cf-4ff8-9c6f-08ea7c2731c1.png)
+![image](https://user-images.githubusercontent.com/55380296/148669660-c92b8cf8-e879-48d7-8f20-f1d776771fe6.png)
+![image](https://user-images.githubusercontent.com/55380296/148669663-c1b9230a-7538-4c0a-b3f2-c9f8b1f320c8.png)
+![image](https://user-images.githubusercontent.com/55380296/148669668-2c69658d-ab03-4e95-9b5d-74ffb70fb4f1.png)
+![image](https://user-images.githubusercontent.com/55380296/148669676-1d48b35b-acad-4173-9186-e8823f14ebf1.png)
+![image](https://user-images.githubusercontent.com/55380296/148669677-a3698b6d-9112-46b9-8e21-f3d4a059b224.png)
+![image](https://user-images.githubusercontent.com/55380296/148669681-8f6cf37e-78ae-44a4-823b-69517af00a38.png)
 
 
