@@ -70,7 +70,7 @@ References:
 ![image](https://user-images.githubusercontent.com/55380296/148669676-1d48b35b-acad-4173-9186-e8823f14ebf1.png)
 
 
-# Request Send
+# Request Accepted
 ![image](https://user-images.githubusercontent.com/55380296/148669681-8f6cf37e-78ae-44a4-823b-69517af00a38.png)
 
 
