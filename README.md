@@ -30,12 +30,14 @@ The problem smartAi solves is now a days we have seen that in many road accident
    - localhost
 
 - Algorithm
-   - ML Algorithm
-
-  
-
+   - ML Algorithm(YOLO Algithm)
 
 References:
--for pattern Recognition we used YOLO https://arxiv.org/abs/2108.11539
+-For Accident Recognition we used YOLO https://arxiv.org/abs/2108.11539
+
+
+# Dataset
+- We created our own dataset from Scratch 
+ Link- https://drive.google.com/drive/folders/1pbRUBAZAbD86eLc90Mc6dBFfro1QYaWt
 
 
