@@ -14,21 +14,23 @@ The problem smartAi solves is now a days we have seen that in many road accident
 
 # Technology - used
 - Backend:
-  - Python/Flask
-  - Socket.io
+  - Python
+  - Django
   
 - Frontend:
   - HTML/CSS/JS
   - Bootstrap
-  - Tensorflow.js
+  - Pytorch
   
 - Server
-  - localhost
+   - localhost
+- Algorithm
+   - ML Algorithm
+
+  
+
 
 References:
-1. For attendance implementation https://arxiv.org/pdf/1503.03832.pdf
-2. For dashboard implemetation and frontend part https://github.com/ML9-FORCES/classroom-x
-3. We took help from codes of above papers and implementations and added our functionalities and presented our solutions.
-4. We used open sourced Copyright (c) 2021 Garvit Chouhan 's prroject for frontend creation and used library like face-recognition to implement attendance system. 
+-for pattern Recognition we used YOLO https://arxiv.org/abs/2108.11539
 
 
