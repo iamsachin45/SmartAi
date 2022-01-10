@@ -23,8 +23,8 @@ The problem smartAi solves is now a days we have seen that in many road accident
   - Bootstrap
   - Pytorch
 
--Database:
-  -Sqlite
+- Database:
+  - Sqlite
   
 - Server:
    - localhost
